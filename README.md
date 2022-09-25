@@ -22,3 +22,8 @@ conda env remove --name myenv
 ```
 conda create -n myenv python=3.10
 ```
+### pip list all packages
+```
+pip list
+pip freeze
+```
