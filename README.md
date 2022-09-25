@@ -18,3 +18,7 @@ conda deactivate
 conda env remove -n myenv
 conda env remove --name myenv
 ```
+### to create
+```
+conda create -n ENVNAME python=3.10
+```
