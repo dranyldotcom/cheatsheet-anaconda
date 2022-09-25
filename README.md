@@ -13,3 +13,8 @@ conda activate myenv
 ```
 conda deactivate
 ```
+### to delete 
+```
+conda env remove -n myenv
+conda env remove --name myenv
+```
