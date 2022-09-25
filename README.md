@@ -20,5 +20,5 @@ conda env remove --name myenv
 ```
 ### to create
 ```
-conda create -n ENVNAME python=3.10
+conda create -n myenv python=3.10
 ```
